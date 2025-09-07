@@ -1,11 +1,10 @@
 # Html-CSS-Login-Form
-HTML & CSS Giriş Formu
+HTML and CSS Entry Form
 
-Bu proje, HTML ve CSS pratiği yapmak için oluşturduğum basit bir giriş formudur.
-Odak noktası tasarım, düzen ve temel stillendirmedir. 🚀
+This project is a simple entry form to practice HTML and CSS. The focus is on design, layout, and basic styling. 🚀
 
-Özellikler:
+Features:
 
--> Kullanıcı adı ve şifre giriş alanları
+-> Username and password input fields
 
--> CSS ile stillendirme (renkler, düzen, boşluklar)
+-> CSS styling (colors, layout, basics)
